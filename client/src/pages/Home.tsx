@@ -4,7 +4,7 @@ import { ArrowRight } from "lucide-react";
 
 export default function Home() {
   const categories = [
-    { name: "Basic Standoff Kits", image: "/images/products/HD-WHS0.jpg", link: "/category/basic-standoff-kits" },
+    { name: "Basic Standoff Kits", image: "/images/products/SOK-PEG9.jpg", link: "/category/basic-standoff-kits" },
     { name: "Edge Grip Standoff Kits", image: "/images/products/SOK-PEG9.jpg", link: "/category/edge-grip-standoff-kits" },
     { name: "Panel Clip Kits", image: "/images/products/HD-CP6.jpg", link: "/category/panel-clip-kits" },
     { name: "Wire Kits", image: "/images/products/WS-ASC-125.jpg", link: "/category/wire-kits" },
